@@ -1,4 +1,4 @@
-Attempting to create card components
+Using React, attempt to create card components
 
 Goal:
 Fetch API
